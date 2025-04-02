@@ -1,0 +1,3 @@
+[submodule "Basics"]
+	path = Basics
+	url = https://github.com/sunghogo/CLC-Basics.git
